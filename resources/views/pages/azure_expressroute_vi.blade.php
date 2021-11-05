@@ -191,7 +191,7 @@
             · Các công ty nơi thường xuyên chuyển dữ liệu giữa các dịch vụ khác và Azure
 
         </p>
-        <div class="text-right mt-xl-5 mt-4 wow fadeIn" data-wow-delay=".5s">
+        <div class="text-end mt-xl-5 mt-4 wow fadeIn" data-wow-delay=".5s">
             <a href="/vi/contact" class="btn btn-success btn-lg px-4 font-weight-bold text-uppercase wow headShake" data-wow-delay="1s">
                 Yêu cầu tư vấn</a>
         </div>

@@ -186,7 +186,7 @@
             · Companies that are being charged excessive service fees for using Azure over the Internet <br>
             · Companies where data is frequently transferred between service resources and Azure
         </p>
-        <div class="text-right mt-xl-5 mt-4 wow fadeIn" data-wow-delay=".5s">
+        <div class="text-end mt-xl-5 mt-4 wow fadeIn" data-wow-delay=".5s">
             <a href="/en/contact" class="btn btn-success btn-lg px-4 font-weight-bold text-uppercase wow headShake" data-wow-delay="1s">
                 REQUEST A CONSULTATION</a>
         </div>

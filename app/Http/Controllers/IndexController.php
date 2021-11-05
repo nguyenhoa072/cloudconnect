@@ -24,6 +24,12 @@ class IndexController extends Controller
         return view('pages/azure_expressroute', $this->_data);
     }
 
+    public function googleCloudInterconnect()
+    {
+        $this->_data['title'] = 'google-cloud-interconnect';
+        return view('pages/google_cloud_interconnect', $this->_data);
+    }
+
     public function awsPublicSupportStatement()
     {
         $this->_data['title'] = 'aws-public-support-statement';

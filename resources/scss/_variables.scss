@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap;subset=vietnamese");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+$enable-responsive-font-sizes: true;
+
+$color: #f17126;
+$white: #fff;
+$baclk: #000;
+
+$roboto: "Roboto", sans-serif;
+$open-sans: "Open Sans", sans-serif;
+
+$color_fpt_blue: #1569b2 !default;
+$color_fpt_orange: #f27228 !default;
+$color_fpt_green: #24b24b !default;
+
+$primary: $color_fpt_blue !default;
+$info: $color_fpt_orange !default;
+
+$hd-bgc: #000;
+$hd-color: #000;
+$ft-bgc: $color_fpt_orange;
+$ft-color: #fff;
+
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`

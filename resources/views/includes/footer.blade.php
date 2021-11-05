@@ -8,8 +8,11 @@
         text-decoration: none;
         text-shadow: 0 0 0 #fff;
     }
+
 </style>
+
 <?php 
+
 $locale = Config::get('app.locale');
 $urlCur =  URL::current();
 
@@ -24,7 +27,7 @@ if (App::isLocale('en')) { ?>
 <div class="footer-top">
     <div class="container">
         <div class="row">
-            <div class="col-lg-2 col-md-4 col-6 py-4 pr-xl-5">
+            <div class="col-lg-2 col-md-4 col-6 py-4 pe-xl-5">
                 <img src="{{ asset('images/system/fpt-telecom-international-y.png') }}" alt=""
                     class="img-fluid" />
             </div>
@@ -35,6 +38,11 @@ if (App::isLocale('en')) { ?>
                     </li>
                     <li class="mb-1">
                         <a href="{{ url('/en/microsoft-azure-expressroute') }}">AZURE EXPRESSROUTE</a>
+                    </li>
+                    <li class="mb-1">
+                        <a href="{{ url('/en/google-cloud-interconnect') }}">
+                            Google Cloud Interconnect
+                        </a>
                     </li>
                     <li class="mb-2"><a href="{{ url('/en/contact') }}">Contact Us</a></li>
                     <li>
@@ -72,7 +80,8 @@ if (App::isLocale('en')) { ?>
                             <a href="tel:0907451357"><strong>090.745.1357</strong></a>
                         </p>
                         <p class="mb-1">
-                            Email: <a href="mailto:fti.cloudconnect@fpt.com.vn"><strong>fti.cloudconnect@fpt.com.vn</strong></a>
+                            Email: <a
+                                href="mailto:fti.cloudconnect@fpt.com.vn"><strong>fti.cloudconnect@fpt.com.vn</strong></a>
                         </p>
                         <p class="mb-1">
                             Business registration certificate number: <br>
@@ -87,12 +96,12 @@ if (App::isLocale('en')) { ?>
 </div>
 
 <footer id="footer" class="py-2">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row justify-content-center">
-            <div class="col-auto mr-xl-5">
-                <p class="my-2 text-center">COPYRIGHT &copy; <?php echo date("Y") ?>, FPT TELECOM INTERNATIONAL</p>
+            <div class="col-auto me-xl-5">
+                <p class="my-2 text-center">COPYRIGHT &copy; <?php echo date('Y'); ?>, FPT TELECOM INTERNATIONAL</p>
             </div>
-            <div class="col-auto ml-xl-5">
+            <div class="col-auto ps-xl-5 ms-auto">
                 <nav class="nav justify-content-center">
                     <a class="nav-link" href="{{ url('/en/policy-and-regulations') }}">Policy And
                         Regulations</a>
@@ -109,7 +118,7 @@ if (App::isLocale('en')) { ?>
 <div class="footer-top">
     <div class="container">
         <div class="row">
-            <div class="col-xl-2 col-lg-3 col-6 py-4 pr-xl-5">
+            <div class="col-xl-2 col-lg-3 col-6 py-4 pe-xl-5">
                 <img src="{{ asset('images/system/fpt-telecom-international-y.png') }}" alt=""
                     class="img-fluid" />
             </div>
@@ -121,6 +130,11 @@ if (App::isLocale('en')) { ?>
                     </li>
                     <li class="mb-1">
                         <a href="{{ url('/vi/microsoft-azure-expressroute') }}">AZURE EXPRESSROUTE</a>
+                    </li>
+                    <li class="mb-1">
+                        <a href="{{ url('/vi/google-cloud-interconnect') }}">
+                            Google Cloud Interconnect
+                        </a>
                     </li>
                     <li class="mb-2"><a href="{{ url('/vi/contact') }}">Liên hệ</a></li>
                     <li>
@@ -158,7 +172,8 @@ if (App::isLocale('en')) { ?>
                             <a href="tel:0907451357"><strong>090.745.1357</strong></a>
                         </p>
                         <p class="mb-1">
-                            Email: <a href="mailto:fti.cloudconnect@fpt.com.vn"><strong>fti.cloudconnect@fpt.com.vn</strong></a>
+                            Email: <a
+                                href="mailto:fti.cloudconnect@fpt.com.vn"><strong>fti.cloudconnect@fpt.com.vn</strong></a>
                         </p>
                         <p class="mb-1">
                             Số giấy chứng nhận đăng ký kinh doanh: <br>
@@ -172,14 +187,14 @@ if (App::isLocale('en')) { ?>
 </div>
 
 <footer id="footer" class="py-2">
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-auto pr-xl-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto pe-xl-5">
                 <p class="my-2 text-center">
-                    &copy; <?php echo date("Y") ?> BẢN QUYỀN THUỘC VỀ CÔNG TY TNHH MỘT THÀNH VIÊN VIỄN THÔNG QUỐC TẾ FPT
+                    &copy; <?php echo date('Y'); ?> BẢN QUYỀN THUỘC VỀ CÔNG TY TNHH MỘT THÀNH VIÊN VIỄN THÔNG QUỐC TẾ FPT
                 </p>
             </div>
-            <div class="col-auto pl-xl-5">
+            <div class="col-auto ps-xl-5 ms-auto">
                 <nav class="nav justify-content-center">
                     <a class="nav-link" href="{{ url('/vi/policy-and-regulations') }}">Chính sách</a>
                     <a class="nav-link" href="{{ url('/vi/privacy-policy') }}">Chính sách bảo mật</a>

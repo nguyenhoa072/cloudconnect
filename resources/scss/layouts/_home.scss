@@ -1,0 +1,174 @@
+.home {
+    overflow: hidden;
+    .hr-3 {
+        border-width: 3px;
+        border-color: #555;
+    }
+
+    .border {
+        border-width: 3px !important;
+    }
+
+    .mpls {
+        &-title {
+            @include media-breakpoint-up(md) {
+                min-height: 56px;
+            }
+        }
+    }
+
+    .why-cloud-connect {
+        .hr-3 {
+            border-color: $color_fpt_orange;
+        }
+
+        .border {
+            border-radius: 20px;
+        }
+    }
+
+    .cloud-connect {
+        .border {
+            border-color: #cbd1d9 !important;
+            border-radius: 20px;
+        }
+
+        hr {
+            border-width: 5px;
+            border-color: #fcdcca;
+        }
+    }
+
+    .solution-cases {
+        .border {
+            border-color: $color_fpt_orange !important;
+        }
+
+        .one {
+            border-top-right-radius: 30px;
+            border-bottom-left-radius: 30px;
+        }
+
+        .two {
+            border-top-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+        }
+
+        img {
+            width: 90px;
+        }
+    }
+
+    .bgc-1 {
+        background-color: $color_fpt_orange;
+    }
+
+    .benefits {
+        .border {
+            font-size: 20px;
+            font-weight: 500;
+            border-width: 2px !important;
+            min-height: 187px;
+        }
+
+        &-1 {
+            & > div:nth-child(odd) {
+                .border {
+                    background-color: $color_fpt_orange;
+                    border-color: $color_fpt_orange !important;
+                    color: #fff;
+                }
+            }
+
+            & > div:nth-child(even) {
+                .border {
+                    background-color: #fff;
+                    border-color: $color_fpt_orange !important;
+                    color: $color_fpt_orange;
+                }
+            }
+        }
+
+        &-2 {
+            & > div:nth-child(odd) {
+                .border {
+                    background-color: #fff;
+                    border-color: $color_fpt_orange !important;
+                    color: $color_fpt_orange;
+                }
+            }
+
+            & > div:nth-child(even) {
+                .border {
+                    background-color: $color_fpt_orange;
+                    border-color: $color_fpt_orange !important;
+                    color: #fff;
+                }
+            }
+        }
+    }
+
+    .payment-model {
+        .form-row {
+            margin-left: -2px;
+            margin-right: -2px;
+        }
+
+        [class*='col-'] {
+            padding-left: 2px;
+            padding-right: 2px;
+        }
+
+        .bgc-1 {
+            background-color: #cbd1d9;
+        }
+
+        .bgc-2 {
+            background-color: #e2e5e9;
+        }
+
+        .header {
+            position: relative;
+
+            div {
+                position: absolute;
+                right: 20%;
+                left: 20%;
+                height: 30px;
+                top: -10px;
+                background-color: $color_fpt_orange;
+
+                &:after,
+                &:before {
+                    position: absolute;
+                    content: "";
+                    height: 55%;
+                    width: 51%;
+                    bottom: -7px;
+                }
+
+                &:after {
+                    right: 1px;
+                    background-color: $color_fpt_orange;
+                    transform: rotate(-4deg);
+                }
+
+                &:before {
+                    left: 1px;
+                    background-color: $color_fpt_orange;
+                    transform: rotate(4deg);
+                }
+
+                span {
+                    position: absolute;
+                    right: -6px;
+                    top: 0;
+                    border-color: transparent transparent #b04101 #b04101;
+                    border-style: solid;
+                    border-width: 5px 3px 5px 3px;
+                    z-index: 999;
+                }
+            }
+        }
+    }
+}

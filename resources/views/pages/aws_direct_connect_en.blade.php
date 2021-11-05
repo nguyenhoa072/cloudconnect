@@ -221,7 +221,7 @@
                     way. This page documents our best practices for ensuring high resiliency with AWS Direct Connect.
                 </p>
                 <p class="wow fadeInUp">
-                    <a href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">Read
+                    <a class="btn btn-outline-primary px-5" href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">Read
                         more</a>
                 </p>
                 <h3 class="wow fadeInUp">

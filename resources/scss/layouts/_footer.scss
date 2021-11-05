@@ -1,0 +1,45 @@
+.footer-top {
+    background-color: #acacac;
+    color: #fff;
+
+    hr {
+        position: relative;
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #999;
+    }
+
+    a {
+        color: $white;
+        text-decoration: none;
+    }
+
+    &-menu {
+        background-color: #959595;
+    }
+
+    h6,
+    p {
+        padding-left: 30px;
+    }
+
+    h6 {
+        position: relative;
+        text-transform: uppercase;
+        margin: 0;
+
+        .fa {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    }
+}
+
+#footer {
+    background-color: $ft-bgc;
+    color: $ft-color;
+
+    a {
+        color: $white;
+    }
+}

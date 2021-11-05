@@ -29,6 +29,7 @@ Route::group(['prefix' => '{locale}', 'where' => ['locale' => '[a-zA-Z]{2}'], 'm
     Route::post('/contact', 'ContactController@sendMail')->name('send.mail');
     Route::get('/aws-direct-connect', 'IndexController@awsDirectConnect');
     Route::get('/microsoft-azure-expressroute', 'IndexController@azureExpressRoute');
+    Route::get('/google-cloud-interconnect', 'IndexController@googleCloudInterconnect');
     Route::get('/aws-public-support-statement', 'IndexController@awsPublicSupportStatement');
     Route::get('/policy-and-regulations', 'IndexController@policyAndRegulations');
     Route::get('/privacy-policy', 'IndexController@privacyPolicy');

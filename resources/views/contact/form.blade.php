@@ -33,11 +33,11 @@
             </div>
         </div>
         <div class="row my-xl-5 my-4">
-            <div class="col text-right pr-xl-5">
+            <div class="col text-end pe-xl-5">
                 <div class="h4 text-uppercase color">{!!__('messages.ho-chi-minh')!!}</div>
             </div>
             <div class="h5 m-0 col-auto color">|</div>
-            <div class="col text-left pl-xl-5">
+            <div class="col text-start ps-xl-5">
                 <div class="h4 text-uppercase color">{!!__('messages.hanoi')!!}</div>
             </div>
         </div>
@@ -54,7 +54,7 @@
             <div class="col-lg-8">
                 <form id="form_contact" method="post">
                     @csrf
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <label for="name" class="col-sm-3 col-form-label">Name <span class="color">*</span></label>
                         <div class="col-sm-9">
                             <input type="text" class="form-control form-control-lg @error('name') is-invalid @enderror"
@@ -66,7 +66,7 @@
                             @enderror
                         </div>
                     </div>
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <label for="emal" class="col-sm-3 col-form-label">Email <span class="color">*</span></label>
                         <div class="col-sm-9">
                             <input type="text" class="form-control form-control-lg @error('email') is-invalid @enderror"
@@ -78,14 +78,12 @@
                             @enderror
                         </div>
                     </div>
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <label for="phone" class="col-sm-3 col-form-label">
                             {!!__('messages.phone-number')!!}<span class="color">*</span></label>
                         <div class="col-sm-9">
                             <div class="input-group input-group-lg">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text">+84</span>
-                                </div>
+                                <span class="input-group-text">+84</span>
                                 <input type="text" class="form-control @error('phone_number') is-invalid @enderror"
                                     value="{{ old('phone_number') }}" placeholder="" name="phone_number">
                                 @error('phone_number')
@@ -96,7 +94,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <label for="question" class="col-sm-3 col-form-label">
                             {!!__('messages.your-question')!!}<span class="color">*</span></label>
                         <div class="col-sm-9">
@@ -109,7 +107,7 @@
                             @enderror
                         </div>
                     </div>
-                    {{-- <div class="form-group row">
+                    {{-- <div class="mb-3 row">
                         <div class="col-sm-9 offset-sm-3">
                             <div class="custom-control custom-checkbox">
                                 <input type="checkbox" class="custom-control-input" id="customCheck1">
@@ -119,7 +117,7 @@
                             </div>
                         </div>
                     </div> --}}
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <div class="col-sm-9 offset-sm-3">
                             <div class="g-recaptcha" data-sitekey="6LeyAPkUAAAAAGKKMXcXfgrVRUmG9fJkEUSov92s" data-callback="recaptchaCallback" data-expired-callback="recaptchaExpired"></div>
                             <input id="hidden-grecaptcha" name="hidden-grecaptcha" type="text"
@@ -131,9 +129,9 @@
                             @enderror
                         </div>
                     </div>
-                    <div class="form-group row">
+                    <div class="mb-3 row">
                         <div class="col-sm-9 offset-sm-3">
-                            <button type="submit" id="submit_contact" class="btn btn-info px-5" disabled>{{__('messages.submit')}}</button>
+                            <button type="submit" id="submit_contact" class="btn btn-info btn-lg px-5 text-white" disabled>{{__('messages.submit')}}</button>
                         </div>
                     </div>
                 </form>
@@ -146,7 +144,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header border-0">
-                <button type="button" class="btn btn-dark btn-sm ml-auto" data-dismiss="modal" aria-label="Close">
+                <button type="button" class="btn btn-dark btn-sm ms-auto" data-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
             </div>

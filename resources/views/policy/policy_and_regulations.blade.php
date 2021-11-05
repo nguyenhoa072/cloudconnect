@@ -18,7 +18,7 @@
             AWS, Azure, GCP... và môi trường trung tâm dữ liệu hoặc văn phòng, thường có thể dẫn đến chi phí mạng thấp hơn,
             tăng lượng băng thông và trải nghiệm mạng ổn định hơn so với kết nối Internet thông thường.
         </p>
-        <ul class="list-unstyled pl-5">
+        <ul class="list-unstyled ps-5">
             <li class="mb-4">
                 <p class="mb-2"><strong>1. Chấp thuận các Điều kiện Sử dụng</strong></p>
                 <p>
@@ -40,13 +40,13 @@
         </ul>
         <h4 class="mt-5">II. Quy định và hình thức thanh toán</h4>
         <p>Quý khách phải sử dụng hình thức chuyển khoản. Dưới đây là thông tin chuyển khoản của chúng tôi:</p>
-        <ul class="pl-5">
+        <ul class="ps-5">
             <li>Tên tài khoản: Công ty TNHH MTV Viễn thông Quốc tế FPT</li>
             <li>Số tài khoản: 007 1000 898 982</li>
             <li>Ngân hàng TMCP Ngoại thương Việt Nam - Chi nhánh TP.HCM</li>
         </ul>
         <h4 class="mt-5">III .Chính sách cài đặt dịch vụ</h4>
-        <ul class="pl-5">
+        <ul class="ps-5">
             <li>
                 Cách 1: Khách hàng có thể trực tiếp tới email/hotline trên website <i>https://cloudconnect.vn</i> để đăng ký nhận
                 thông tin dịch vụ.
@@ -80,7 +80,7 @@
             điểm chúng tôi cập nhật. Sau khi chính sách bảo mật được cập nhật, Bạn vẫn sử dụng website
             <i>https://cloudconnect.vn</i>. có nghĩa là Bạn đã hiểu và đồng ý với Chính sách bảo mật của <i>FPT CLOUD CONNECT</i>.
         </p>
-        <ul class="list-unstyled pl-5">
+        <ul class="list-unstyled ps-5">
             <li class="mb-4">
                 <p class="mb-2"><strong>1. Mục đích thu thập thông tin </strong></p>
                 <p>Việc thu thập thông tin qua website <i>https://cloudconnect.vn</i> sẽ giúp chúng tôi:</p>
@@ -245,7 +245,7 @@
             increased bandwidth throughput, and a more consistent and stable network experience than Internet-based
             connections
         </p>
-        <ul class="list-unstyled pl-5">
+        <ul class="list-unstyled ps-5">
             <li class="mb-4">
                 <p class="mb-2"><strong>1. Acceptance of Terms of Use</strong></p>
                 <p>
@@ -270,13 +270,13 @@
         <p>
             Customers have to use Bank Transfer method. Below is our Bank account information:
         </p>
-        <ul class="pl-5">
+        <ul class="ps-5">
             <li>Account name: FPT International Telecom Company Limited</li>
             <li>Account number: 007 1000 898 982</li>
             <li>Joint Stock Commercial Bank for Foreign Trade in Vietnam – HCMC Branch</li>
         </ul>
         <h4 class="mt-5">III. Terms for service installation</h4>
-        <ul class="pl-5">
+        <ul class="ps-5">
             <li>
                 Option 1: Customer can contact via the hotline/email on the website <i>https://cloudconnect.vn</i> to receive the
                 service information and service registration.
@@ -312,7 +312,7 @@
             to the privacy policy, You signify that You understand and accept to be bound by the Privacy Policy of FPT CLOUD
             CONNECT.
         </p>
-        <ul class="list-unstyled pl-5">
+        <ul class="list-unstyled ps-5">
             <li class="mb-4">
                 <p class="mb-2"><strong>1. Purpose of information collection </strong></p>
                 <p>Collection of information via the website <i>https://cloudconnect.vn</i> helps us to:</p>

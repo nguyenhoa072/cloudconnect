@@ -200,7 +200,7 @@
                     khả năng phục hồi cao với AWS Direct Connect.
                 </p>
                 <p class="wow fadeInUp">
-                    <a href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">Xem
+                    <a class="btn btn-outline-primary px-5" href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">Xem
                         thêm</a>
                 </p>
                 <h3 class="wow fadeInUp">Mô hình High Resiliency cho dịch vụ FPT Cloud Connect </h3>

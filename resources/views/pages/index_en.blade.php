@@ -14,7 +14,7 @@
                 </h1>
             </div>
             <div class="col-5">
-                <div class="pl-xl-5 ml-xl-5">
+                <div class="ps-xl-5 ms-xl-5">
                     <img src="images/system/cloud-connect.png" alt="" class="img-fluid">
                 </div>
             </div>
@@ -105,41 +105,41 @@
     </div>
     <div class="benefits">
         <h2 class="text-center font-weight-bold wow fadeInUp">Benefits</h2>
-        <div class="benefits-1 form-row mt-xl-5 mt-4">
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-2 wow flipInX" data-wow-delay="0.1s">
+        <div class="benefits-1 row mt-xl-5 mt-4">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-15.png" alt="" class="img-fluid">
                     <div>High-speed Installation</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-2 wow flipInX" data-wow-delay="0.2s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.2s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-16.png" alt="" class="img-fluid">
                     <div>Simplified Transmission Management</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="0.3s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-17.png" alt="" class="img-fluid">
                     <div>Complete Confidentiality</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow flipInX"
                 data-wow-delay="0.4s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-18.png" alt="" class="img-fluid">
                     <div>Enhanced<br>Security</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="0.5s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-19.png" alt="" class="img-fluid">
                     <div>Multicloud Connection</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="0.6s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-20.png" alt="" class="img-fluid">
@@ -147,41 +147,41 @@
                 </div>
             </div>
         </div>
-        <div class="benefits-2 form-row mb-xl-5 mb-4">
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-2 wow flipInX" data-wow-delay="0.7s">
+        <div class="benefits-2 row mb-xl-5 mb-4">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.7s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-21.png" alt="" class="img-fluid">
                     <div>Cost- Effectiveness</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-2 wow flipInX" data-wow-delay="0.8s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.8s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-22.png" alt="" class="img-fluid">
                     <div>Exceptional Stability</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="0.9s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-23.png" alt="" class="img-fluid">
                     <div>Professional Support</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow flipInX"
                 data-wow-delay="1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-24.png" alt="" class="img-fluid">
                     <div>Qualified Cloud Experts</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="1.1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-25.png" alt="" class="img-fluid">
                     <div>Leading Global Partners</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-2 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
                 data-wow-delay="1.2s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-26.png" alt="" class="img-fluid">
@@ -242,22 +242,22 @@
     <div class="solution-cases my-xl-5 my-4">
         <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Solution Cases</h2>
         <div class="row">
-            <div class="col-sm-6 pr-xl-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-sm-6 pe-xl-4 wow fadeInUp" data-wow-delay="0.2s">
                 <div class="d-flex border one h-100 py-5 px-4">
-                    <div class="text-right">
+                    <div class="text-end">
                         <h4>Optimizing Customers' Connection Systems</h4>
                         <p class="lead m-0">
                             Cloud Connect ensures stability and maximum support with diverse channel systems of FPT.
                         </p>
                     </div>
-                    <div class="ml-3">
+                    <div class="ms-3">
                         <img src="images/icons/icon-8.png" alt="">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 pl-xl-4 mt-sm-0 mt-3 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-sm-6 ps-xl-4 mt-sm-0 mt-3 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="d-flex border two h-100 py-5 px-4">
-                    <div class="mr-3">
+                    <div class="me-3">
                         <img src="images/icons/icon-9.png" alt="">
                     </div>
                     <div class="">
@@ -269,22 +269,22 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 pr-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-sm-6 pe-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.6s">
                 <div class="d-flex border two h-100 py-5 px-4">
-                    <div class="text-right">
+                    <div class="text-end">
                         <h4>Multicloud Solution</h4>
                         <p class="lead m-0">
                             Simplifying the connection to different clouds.
                         </p>
                     </div>
-                    <div class="ml-3">
+                    <div class="ms-3">
                         <img src="images/icons/icon-10.png" alt="">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 pl-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.8s">
+            <div class="col-sm-6 ps-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.8s">
                 <div class="d-flex border one h-100 py-5 px-4">
-                    <div class="mr-3">
+                    <div class="me-3">
                         <img src="images/icons/icon-11.png" alt="">
                     </div>
                     <div class="">
@@ -305,7 +305,7 @@
     </div>
     <div class="payment-model my-xl-5 my-4">
         <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Payment Model</h2>
-        <div class="form-row">
+        <div class="row">
             <div class="col-sm-6 text-center wow fadeInUp">
                 <div class="header mb-1 pt-5 pb-3 h5 bgc-1">
                     <div><span></span></div>
