@@ -51,7 +51,7 @@ if ($locale == 'vi') {
                             <a class="nav-link" href="{{ url('/en/contact') }}">Contact Us</a>
                         </li>
                     </ul>
-                    <ul class="navbar-nav lang d-block d-lg-none">
+                    <ul class="navbar-nav lang d-block d-xl-none">
                         <li class="nav-item">
                             <a class="nav-link" href="{{ url($urlCur) }}">
                                 <img src="{{ asset('images/system/lang-vn.png') }}" alt=""
@@ -103,7 +103,7 @@ if ($locale == 'vi') {
                             <a class="nav-link" href="{{ url('/vi/contact') }}">Liên hệ</a>
                         </li>
                     </ul>
-                    <ul class="navbar-nav lang d-block d-lg-none">
+                    <ul class="navbar-nav lang d-block d-xl-none">
                         <li class="nav-item">
                             <a class="nav-link" href="{{ url($urlCur) }}">
                                 <img src="{{ asset('images/system/lang-en.png') }}" alt=""

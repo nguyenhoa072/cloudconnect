@@ -34,4 +34,5 @@ return [
     'policy-and-regulations' => 'Các chính sách',
     'privacy-policy' => 'Chính sách bảo mật thôn tin',
     'terms-of-use' => 'Điểu khoản sử dụng',
+    'google-cloud-interconnect' => 'Google Cloud Interconnect',
 ];

@@ -6,14 +6,14 @@
     <div class="map">
         <div class="address">
             <ul class="list-unstyled m-0" id="listMapID" data-map-lat="10.754018" data-map-lng="106.740176">
-                <li data-map-lat="10.754018" data-map-lng="106.740176">
+                <li data-map-lat="21.0233358" data-map-lng="105.809679">
                     <p class="mb-2"><strong>{!!__('messages.fpt-telecom-international')!!}</strong></p>
                     <p class="m-0"><b>{!!__('messages.address')!!}:</b> {!!__('messages.address_hanoi')!!}
                         <br><b>FPT Telecom International hotline:</b> <a href="tel:19006973">1900 6973</a>
                     </p>
                     <p class="m-0"><b>Cloud Connect hotline:</b> <a href="tel:0907451357">090.745.1357</a></p>
                 </li>
-                <li data-map-lat="21.028435371671726" data-map-lng="105.78058935714716">
+                <li data-map-lat="10.754018" data-map-lng="106.740176">
                     <p class="mb-2"><strong>{!!__('messages.fpt-telecom-international')!!}</strong></p>
                     <p class="m-0"><b>{!!__('messages.address')!!}:</b> {!!__('messages.address_hcm')!!}
                         <br><b>FPT Telecom International hotline:</b> <a href="tel:1900 6973">1900 6973</a>
@@ -27,7 +27,7 @@
     <div class="container my-xl-5 my-4">
         <div class="box-1">
             <div>
-                <h4 class="color text-center font-weight-bold m-0">
+                <h4 class="color text-center fw-bold m-0">
                     {!!__('contact.text-1')!!}
                 </h4>
             </div>
@@ -42,10 +42,10 @@
             </div>
         </div>
         <div class="text-center my-xl-5 my-4">
-            <a href="tel:0907451357" class="btn btn-info btn-lg rounded-pill font-weight-bold px-4">090.745.1357</a>
+            <a href="tel:0907451357" class="btn btn-info btn-lg rounded-pill fw-bold text-white px-4">090.745.1357</a>
         </div>
         <div class="text-center mb-xl-5 mb-4">
-            <div class="h5 font-weight-bold color">{!!__('messages.let-us-contact-you')!!}</div>
+            <div class="h5 fw-bold color">{!!__('messages.let-us-contact-you')!!}</div>
             <div class="h5 font-weight-normal">
                 {!!__('contact.text-2')!!}
             </div>
@@ -153,7 +153,7 @@
                 <div class="h4 font-weight-normal mx-xl-5 px-xl-5">
                     {!!__('messages.your-message-has-been-successfully-sent')!!}</div>
                 <div class="h4 font-weight-normal my-5">{!!__('messages.cant-wait-call-us-now')!!}</div>
-                <div class="h1 color font-weight-bold">090.745.1357</div>
+                <div class="h1 color fw-bold">090.745.1357</div>
                 <div class="h4 font-weight-normal mx-xl-5 my-5 px-xl-5">
                     {!!__('messages.our-sales-will')!!}
                 </div>

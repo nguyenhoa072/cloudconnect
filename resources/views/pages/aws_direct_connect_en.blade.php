@@ -1,9 +1,9 @@
 <div class="aws-direct-connect">
-    <div class="banner wow fadeInUp">
+    <div class="banner wow animate__animated animate__fadeInUp">
         <img src="/images/aws-direct-connect/banner.png" alt="" class="img-fluid">
     </div>
     <div class="container">
-        <div class="text-center my-xl-5 my-4 wow fadeInUp">
+        <div class="text-center my-xl-5 my-4 wow animate__animated animate__fadeInUp">
             <div class="d-lg-block d-none">
                 <img src="/images/aws-direct-connect/amazon-web-services.jpg" alt="" class="img-fluid w-50">
             </div>
@@ -12,10 +12,10 @@
             </div>
         </div>
         <div class="definition my-xl-5 my-4">
-            <h2 class="font-weight-bold mb-4 wow fadeInUp">
+            <h2 class="fw-bold mb-4 wow animate__animated animate__fadeInUp">
                 <span class="border-top d-inline-block pt-1">Definition</span>
             </h2>
-            <p class="wow fadeInUp">
+            <p class="wow animate__animated animate__fadeInUp">
                 AWS Direct Connect is a cloud service solution that makes it easy to establish a dedicated network
                 connection
                 from your premises to AWS. Using AWS Direct Connect, you can establish private connectivity between AWS
@@ -25,7 +25,7 @@
                 increase
                 bandwidth throughput, and provide a more consistent network experience than Internet-based connections.
             </p>
-            <p class="wow fadeInUp">
+            <p class="wow animate__animated animate__fadeInUp">
                 AWS Direct Connect lets you establish a dedicated network connection between your network and one of the
                 AWS
                 Direct Connect locations. Using industry standard 802.1q VLANs, this dedicated connection can be
@@ -43,12 +43,12 @@
             </p>
         </div>
         <div class="benefits my-xl-5 my-4">
-            <h2 class="font-weight-bold wow fadeInUp">
+            <h2 class="fw-bold wow animate__animated animate__fadeInUp">
                 <span class="border-top  d-inline-block pt-1">Benefits</span>
             </h2>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/Costs.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Reduces Your Bandwidth Costs</h3>
                         <p class="benefits-content-detail">
@@ -64,7 +64,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/Network.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Consistent Network Performance</h3>
                         <p class="benefits-content-detail">
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/Compatible.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Compatible with all AWS Services</h3>
                         <p class="benefits-content-detail">
@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/amazon-vpc.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Private Connectivity to your Amazon VPC</h3>
                         <p class="benefits-content-detail">
@@ -113,7 +113,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/Elastic.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Elastic</h3>
                         <p class="benefits-content-detail">
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="text-center mt-4 wow fadeInUp">
+                    <div class="text-center mt-4 wow animate__animated animate__fadeInUp">
                         <img src="/images/aws-direct-connect/icon/Simple.png" alt="" class="img-fluid">
                         <h3 class="benefits-title text-uppercase mt-3">Simple</h3>
                         <p class="benefits-content-detail">
@@ -149,16 +149,16 @@
                 </div>
             </div>
             <div class="customers my-xl-5 my-4">
-                <h2 class="customers-title font-weight-bold wow fadeInUp">
+                <h2 class="customers-title fw-bold wow animate__animated animate__fadeInUp">
                     <span class="border-top  d-inline-block pt-1">What customers talk about AWS Direct Connect</span>
                 </h2>
                 <div class="customers-items">
                     <div class="customers-item mt-4">
-                        <div class="customers-item-header wow fadeInUp">
+                        <div class="customers-item-header wow animate__animated animate__fadeInUp">
                             <strong>Mr Son Nguyen – System Engineer</strong>
                             <p>Sendo Technology Joint Stock Company</p>
                         </div>
-                        <div class="customers-item-content wow fadeInUp">
+                        <div class="customers-item-content wow animate__animated animate__fadeInUp">
                             "With the transition to AWS's Direct Connect service, the availability and latency of the
                             service
                             are excellent,
@@ -169,11 +169,11 @@
                         </div>
                     </div>
                     <div class="customers-item mt-4">
-                        <div class="customers-item-header wow fadeInUp">
+                        <div class="customers-item-header wow animate__animated animate__fadeInUp">
                             <strong>Mr Thang Tran – Network Engineer</strong>
                             <p>VPBank Finance Company Limited</p>
                         </div>
-                        <div class="customers-item-content wow fadeInUp">
+                        <div class="customers-item-content wow animate__animated animate__fadeInUp">
                             "FPT Cloud Connect service of FPT uses unique and reliable protective submarine cables,
                             making
                             AWS Direct Connect
@@ -185,21 +185,21 @@
                 </div>
             </div>
             <div class="how-it-works my-xl-5 my-4">
-                <h2 class="font-weight-bold wow fadeInUp">
+                <h2 class="fw-bold wow animate__animated animate__fadeInUp">
                     <span class="border-top d-inline-block pt-1">How it works</span>
                 </h2>
-                <p class="wow fadeInUp">
+                <p class="wow animate__animated animate__fadeInUp">
                     <strong>FPT Cloud Connect</strong> is a service that provides connection infrastructure from
                     customers in Vietnam to global Cloud providers with no restrictions on countries or providers. FPT
                     Cloud Connect uses MPLS Layer 2 / Layer 3 protocol.
                 </p>
-                <div class="text-center wow fadeInUp">
+                <div class="text-center wow animate__animated animate__fadeInUp">
                     <img src="/images/aws-direct-connect/how-it-works.jpg" alt="" class="img-fluid">
                 </div>
-                <h3 class="mt-4 wow fadeInUp">
+                <h3 class="mt-4 wow animate__animated animate__fadeInUp">
                     We provide AWS Direct Connect Hosted connections (bandwidth managed by FPT Telecom)
                 </h3>
-                <ul class="wow fadeInUp">
+                <ul class="wow animate__animated animate__fadeInUp">
                     <li>More bandwidth options: 50M-100M-200M-300M-400M-500M-1G-2G-5G-10G.</li>
                     <li>Provision and QoS by FPT Telecom.</li>
                     <li>Each hosted connection has a predefined VLAN and bandwidth.</li>
@@ -207,40 +207,40 @@
                 </ul>
             </div>
             <div class="my-xl-5 my-4">
-                <h2 class="font-weight-bold wow fadeInUp">
+                <h2 class="fw-bold wow animate__animated animate__fadeInUp">
                     <span class="border-top d-inline-block pt-1">
                         Best practices architectures
                     </span>
                 </h2>
-                <p class="wow fadeInUp">
+                <p class="wow animate__animated animate__fadeInUp">
                     Amazon Web Services (AWS) offers customers the ability to achieve highly resilient network
                     connections between Amazon Virtual Private Cloud (Amazon VPC) and their on-premises infrastructure.
                 </p>
-                <p class="wow fadeInUp">
+                <p class="wow animate__animated animate__fadeInUp">
                     This capability extends customer access to AWS resources in a reliable, scalable, and cost-effective
                     way. This page documents our best practices for ensuring high resiliency with AWS Direct Connect.
                 </p>
-                <p class="wow fadeInUp">
-                    <a class="btn btn-outline-primary px-5" href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">Read
-                        more</a>
+                <p class="wow animate__animated animate__fadeInUp">
+                    <a class="btn btn-outline-primary btn-sm px-5" href="https://aws.amazon.com/directconnect/resiliency-recommendation/" target="_blank">
+                        Read more</a>
                 </p>
-                <h3 class="wow fadeInUp">
+                <h3 class="wow animate__animated animate__fadeInUp">
                     High resiliency for FPT Cloud Connect
                 </h3>
-                <div class="wow fadeInUp">
+                <div class="wow animate__animated animate__fadeInUp">
                     The High resiliency model is recommended when Hi-resiliency model is recommended when:
                     <ul>
                         <li>Customers only use 1 supplier.</li>
                         <li>For critical workloads that need to be protected.</li>
                     </ul>
                 </div>
-                <p class="text-center wow fadeInUp">
+                <p class="text-center wow animate__animated animate__fadeInUp">
                     <img src="/images/aws-direct-connect/High-Resiliency.png" alt="" class="img-fluid">
                 </p>
-                <h3 class="wow fadeInUp">
+                <h3 class="wow animate__animated animate__fadeInUp">
                     Maximum Resiliency for FPT Cloud Connect
                 </h3>
-                <div class="wow fadeInUp">
+                <div class="wow animate__animated animate__fadeInUp">
                     The Maximum resiliency model is recommended when:
                     <ul>
                         <li>Extremely important data.</li>
@@ -248,13 +248,13 @@
                         <li>Need the highest level of service.</li>
                     </ul>
                 </div>
-                <p class="text-center wow fadeInUp">
+                <p class="text-center wow animate__animated animate__fadeInUp">
                     <img src="/images/aws-direct-connect/Maximum-Resiliency.png" alt="" class="img-fluid">
                 </p>
             </div>
         </div>
         <div class="my-xl-5 my-4 pt-5">
-            <div class="text-center wow fadeInUp"
+            <div class="text-center wow animate__animated animate__fadeInUp"
                 style="border-right: 2px solid #f17126; border-left: 2px solid #f17126">
                 <div class="d-none d-md-block">
                     <img src="/images/partner/international-certifications.jpg" alt="AWS" class="img-fluid">
@@ -266,7 +266,7 @@
         </div>
         <div class="my-xl-5 my-4">
             <a href="{{ url('/en/aws-public-support-statement') }}"
-                class="btn btn-success btn-lg px-4 font-weight-bold wow headShake">
+                class="btn btn-success px-4 fw-bold wow animate__animated animate__headShake">
                 Read AWS Public Support Statement
             </a>
         </div>

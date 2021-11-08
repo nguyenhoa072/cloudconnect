@@ -1,13 +1,13 @@
 <div class="home container">
-    <h3 class="text-center color m-xl-5 my-4 px-xl-5 wow fadeInUp">
+    <h3 class="text-center color m-xl-5 my-4 px-xl-5 wow animate__animated animate__fadeInUp">
         Experience an effective multicloud management with the Cloud Connect
         service, provided by FPT Telecom International.
         Avoid any complex networking or infrastructure configuration.
     </h3>
-    <div class="border p-xl-5 p-3 my-xl-5 my-4 wow zoomIn">
+    <div class="border p-xl-5 p-3 my-xl-5 my-4 wow animate__animated animate__zoomIn">
         <div class="row align-items-center">
             <div class="col-7">
-                <h1 class="h4 font-weight-normal">
+                <h1 class="h4 fw-normal">
                     FPT Cloud Connect is the enhanced enterprise solution with completely private access to application
                     services in a simple, effective and secured manner, based on the most popular cloud services
                     providers.
@@ -21,12 +21,12 @@
         </div>
     </div>
     <div class="mpls">
-        <h3 class="text-center color m-xl-5 my-4 px-xl-5 wow fadeInUp">
+        <h3 class="text-center color m-xl-5 my-4 px-xl-5 wow animate__animated animate__fadeInUp">
             The advanced connectivity infrastructure, based on MPLS to support
             connecting between Vietnam and major international cloud providers.
         </h3>
         <div class="row my-xl-5 my-4">
-            <div class="col-sm-6 col-md-3 text-center wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-sm-6 col-md-3 text-center wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <img src="images/icons/icon-1.png" alt="" class="fluid" width="70">
                 <hr class="hr-3">
                 <h4 class="mpls-title">Effective Cost-Saving</h4>
@@ -35,7 +35,7 @@
                     POP.
                 </p>
             </div>
-            <div class="col-sm-6 col-md-3 text-center wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-sm-6 col-md-3 text-center wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                 <img src="images/icons/icon-2.png" alt="" class="fluid" width="70">
                 <hr class="hr-3">
                 <h4 class="mpls-title">Quality Commitment up to 99,9%</h4>
@@ -44,7 +44,7 @@
                     “Pay-as-you-go”.
                 </p>
             </div>
-            <div class="col-sm-6 col-md-3 text-center wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-sm-6 col-md-3 text-center wow animate__animated animate__fadeInUp" data-wow-delay="0.6s">
                 <img src="images/icons/icon-3.png" alt="" class="fluid" width="70">
                 <hr class="hr-3">
                 <h4 class="mpls-title">Risks Minimization</h4>
@@ -53,7 +53,7 @@
                     security level of the connection channel.
                 </p>
             </div>
-            <div class="col-sm-6 col-md-3 text-center wow fadeInUp" data-wow-delay="0.8s">
+            <div class="col-sm-6 col-md-3 text-center wow animate__animated animate__fadeInUp" data-wow-delay="0.8s">
                 <img src="images/icons/icon-4.png" alt="" class="fluid" width="70">
                 <hr class="hr-3">
                 <h4 class="mpls-title">Eco-System Diversity</h4>
@@ -66,25 +66,25 @@
         </div>
     </div>
     <div class="why-cloud-connect my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold wow fadeInUp">Why Cloud Connect?</h2>
-        <h4 class="text-center color my-4 wow fadeInUp">
+        <h2 class="text-center fw-bold wow animate__animated animate__fadeInUp">Why Cloud Connect?</h2>
+        <h4 class="text-center color my-4 wow animate__animated animate__fadeInUp">
             FPT Cloud Connect helping you to reach the most popular Cloud Services Providers in
             the world.
         </h4>
         <div class="row mb-xl-5 mb-4">
-            <div class="col-sm-4 mt-3 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-sm-4 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="border text-center h-100 p-3">
                     <img src="images/icons/icon-5.png" alt="" width="80">
                     <h5 class="mt-3 mb-0">Enhancing your general network security.</h5>
                 </div>
             </div>
-            <div class="col-sm-4 mt-3 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-sm-4 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                 <div class="border text-center h-100 p-3">
                     <img src="images/icons/icon-6.png" alt="" width="80">
                     <h5 class="mt-3 mb-0">Cutting costs from IPLC services.</h5>
                 </div>
             </div>
-            <div class="col-sm-4 mt-3 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-sm-4 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.6s">
                 <div class="border text-center h-100 p-3">
                     <img src="images/icons/icon-7.png" alt="" width="80">
                     <h5 class="mt-3 mb-0">Simplifying a network topology from a multi-connection into the one unified
@@ -92,54 +92,54 @@
                 </div>
             </div>
         </div>
-        <hr class="hr-3 wow fadeInLeft">
-        <div class="px-xl-5 mx-xl-5 wow fadeInUp" data-wow-delay="0.4s">
-            <h4 class="text-center color font-weight-normal">
+        <hr class="hr-3 wow animate__animated animate__fadeInLeft">
+        <div class="px-xl-5 mx-xl-5 wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
+            <h4 class="text-center color fw-normal">
                 Accelerate your digital transformation together with <br>
                 <b>FPT Telecom International – Solid Partner and Enhanced Solutions.</b> <br>
                 Expand your presence into the Southeast Asia Market – get access to the world’s largest ecosystems
                 of interconnected partners and providers.
             </h4>
         </div>
-        <hr class="hr-3 wow fadeInRight">
+        <hr class="hr-3 wow animate__animated animate__fadeInRight">
     </div>
     <div class="benefits">
-        <h2 class="text-center font-weight-bold wow fadeInUp">Benefits</h2>
+        <h2 class="text-center fw-bold wow animate__animated animate__fadeInUp">Benefits</h2>
         <div class="benefits-1 row mt-xl-5 mt-4">
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.1s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow animate__animated animate__flipInX" data-wow-delay="0.1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-15.png" alt="" class="img-fluid">
                     <div>High-speed Installation</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.2s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow animate__animated animate__flipInX" data-wow-delay="0.2s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-16.png" alt="" class="img-fluid">
                     <div>Simplified Transmission Management</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="0.3s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-17.png" alt="" class="img-fluid">
                     <div>Complete Confidentiality</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="0.4s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-18.png" alt="" class="img-fluid">
                     <div>Enhanced<br>Security</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="0.5s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-19.png" alt="" class="img-fluid">
                     <div>Multicloud Connection</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="0.6s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-20.png" alt="" class="img-fluid">
@@ -148,40 +148,40 @@
             </div>
         </div>
         <div class="benefits-2 row mb-xl-5 mb-4">
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.7s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow animate__animated animate__flipInX" data-wow-delay="0.7s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-21.png" alt="" class="img-fluid">
                     <div>Cost- Effectiveness</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow flipInX" data-wow-delay="0.8s">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 mb-4 wow animate__animated animate__flipInX" data-wow-delay="0.8s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-22.png" alt="" class="img-fluid">
                     <div>Exceptional Stability</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="0.9s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-23.png" alt="" class="img-fluid">
                     <div>Professional Support</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-0 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-24.png" alt="" class="img-fluid">
                     <div>Qualified Cloud Experts</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="1.1s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-25.png" alt="" class="img-fluid">
                     <div>Leading Global Partners</div>
                 </div>
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow flipInX"
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6 text-center order-md-0 order-1 mb-4 wow animate__animated animate__flipInX"
                 data-wow-delay="1.2s">
                 <div class="border h-100 p-2">
                     <img src="images/icons/icon-26.png" alt="" class="img-fluid">
@@ -190,18 +190,18 @@
             </div>
         </div>
     </div>
-    <div class="text-center bgc-1 text-white p-3 wow fadeInUp">
-        <h4 class="mx-lg-5 px-lg-5 mb-4 font-weight-normal">
+    <div class="text-center bgc-1 text-white p-3 wow animate__animated animate__fadeInUp">
+        <h4 class="mx-lg-5 px-lg-5 mb-4 fw-normal">
             We are always ready to assist you with a variety of topics, and to get you up-and-running with the Cloud
             Connect Service, provided by FPT Telecom International.</h4>
-        <h4 class="my-0 mx-lg-5 px-lg-5 font-weight-normal">
-            <b>090.745.1357</b> <span class="font-weight-light">CALL US NOW</span>
+        <h4 class="my-0 mx-lg-5 px-lg-5 fw-normal">
+            <b>090.745.1357</b> <span class="fw-light">CALL US NOW</span>
         </h4>
     </div>
     <div class="cloud-connect my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Cloud Connect</h2>
+        <h2 class="text-center fw-bold mb-xl-5 mb-4 wow animate__animated animate__fadeInUp">Cloud Connect</h2>
         <div class="row">
-            <div class="col-sm-4 mb-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-sm-4 mb-4 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="text-center h-100 px-lg-3">
                     <img src="images/icons/icon-12.png" alt="" class="img-fluid" width="200">
                     <h5 class="mt-3 mb-0">
@@ -210,13 +210,13 @@
                     </h5>
                 </div>
             </div>
-            <div class="col-sm-4 mb-4 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-sm-4 mb-4 wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                 <div class="text-center h-100 px-lg-3">
                     <img src="images/icons/icon-13.png" alt="" class="img-fluid" width="200">
                     <h5 class="mt-3 mb-0">Up to 14 days Service Trial.</h5>
                 </div>
             </div>
-            <div class="col-sm-4 mb-4 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-sm-4 mb-4 wow animate__animated animate__fadeInUp" data-wow-delay="0.6s">
                 <div class="text-center h-100 px-lg-3">
                     <img src="images/icons/icon-14.png" alt="" class="img-fluid" width="200">
                     <h5 class="mt-3 mb-0">
@@ -225,24 +225,24 @@
                 </div>
             </div>
         </div>
-        <hr class="wow fadeInRight">
-        <p class="lead text-center wow fadeInUp">
+        <hr class="wow animate__animated animate__fadeInRight">
+        <p class="lead text-center wow animate__animated animate__fadeInUp">
             Vietnam’s economy is set to expand as it continues its transformation into a global manufacturing
             hub. As Vietnam’s economy matures, local businesses are starting to consider taking the next step in their
             growth and expand to the global markets.
         </p>
-        <p class="lead text-center wow fadeInUp">
+        <p class="lead text-center wow animate__animated animate__fadeInUp">
             Moving towards a multi-cloud, multi-technology and multi-collaboration oriented digital future, FPT Cloud
             Connect connects businesses in Vietnam to the most popular and trusted international Clouds, providing our
             customers with a complete bundle of network equipment, transmission channels, servers and co-location
             service in foreign markets with flexible financial options.
         </p>
-        <hr class="wow fadeInLeft">
+        <hr class="wow animate__animated animate__fadeInLeft">
     </div>
     <div class="solution-cases my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Solution Cases</h2>
+        <h2 class="text-center fw-bold mb-xl-5 mb-4 wow animate__animated animate__fadeInUp">Solution Cases</h2>
         <div class="row">
-            <div class="col-sm-6 pe-xl-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="col-sm-6 pe-xl-4 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                 <div class="d-flex border one h-100 py-5 px-4">
                     <div class="text-end">
                         <h4>Optimizing Customers' Connection Systems</h4>
@@ -255,7 +255,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 ps-xl-4 mt-sm-0 mt-3 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="col-sm-6 ps-xl-4 mt-sm-0 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                 <div class="d-flex border two h-100 py-5 px-4">
                     <div class="me-3">
                         <img src="images/icons/icon-9.png" alt="">
@@ -269,7 +269,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 pe-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.6s">
+            <div class="col-sm-6 pe-xl-4 mt-xl-5 mt-md-4 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.6s">
                 <div class="d-flex border two h-100 py-5 px-4">
                     <div class="text-end">
                         <h4>Multicloud Solution</h4>
@@ -282,7 +282,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 ps-xl-4 mt-xl-5 mt-md-4 mt-3 wow fadeInUp" data-wow-delay="0.8s">
+            <div class="col-sm-6 ps-xl-4 mt-xl-5 mt-md-4 mt-3 wow animate__animated animate__fadeInUp" data-wow-delay="0.8s">
                 <div class="d-flex border one h-100 py-5 px-4">
                     <div class="me-3">
                         <img src="images/icons/icon-11.png" alt="">
@@ -298,48 +298,48 @@
         </div>
     </div>
     <div class="my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Cloud Connect Primary Solution Map</h2>
+        <h2 class="text-center fw-bold mb-xl-5 mb-4 wow animate__animated animate__fadeInUp">Cloud Connect Primary Solution Map</h2>
         <div class="text-center wow zoomIn">
             <img src="images/home/Cloud-Connect-Primary-Solution-Map.png" alt="" class="img-fluid">
         </div>
     </div>
     <div class="payment-model my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold mb-xl-5 mb-4 wow fadeInUp">Payment Model</h2>
+        <h2 class="text-center fw-bold mb-xl-5 mb-4 wow animate__animated animate__fadeInUp">Payment Model</h2>
         <div class="row">
-            <div class="col-sm-6 text-center wow fadeInUp">
+            <div class="col-sm-6 text-center wow animate__animated animate__fadeInUp">
                 <div class="header mb-1 pt-5 pb-3 h5 bgc-1">
                     <div><span></span></div>
                     <b>Whole Circuit Connection</b>
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-2">
+                <div class="mb-1 p-3 h5 fw-normal bgc-2">
                     Based on connection bandwidth (10/15/100 Mbps, 1/2/5/10Gbps monthly cost).
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-1">
+                <div class="mb-1 p-3 h5 fw-normal bgc-1">
                     Unlimited payment model or “Pay-as-you-go” payment model following 95th percentile.
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-2">Minimum 12-months contract.</div>
+                <div class="mb-1 p-3 h5 fw-normal bgc-2">Minimum 12-months contract.</div>
             </div>
-            <div class="col-sm-6 text-center mt-sm-0 mt-4 wow fadeInUp">
+            <div class="col-sm-6 text-center mt-sm-0 mt-4 wow animate__animated animate__fadeInUp">
                 <div class="header mb-1 pt-5 pb-3 h5 bgc-1">
                     <div><span></span></div>
                     <b>Preferred Route Connection Of Cloud Providers</b>
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-2">
+                <div class="mb-1 p-3 h5 fw-normal bgc-2">
                     Based on connection bandwidth (10/15/100 Mbps, 1/2/5/10Gbps monthly cost).
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-1">
+                <div class="mb-1 p-3 h5 fw-normal bgc-1">
                     Possibility asking for FPT’s configuration in appropriate bandwidth for multicloud connection.
                 </div>
-                <div class="mb-1 p-3 h5 font-weight-normal bgc-2">No commitment contract.</div>
+                <div class="mb-1 p-3 h5 fw-normal bgc-2">No commitment contract.</div>
             </div>
         </div>
     </div>
-    <div class="bgc-1 my-xl-5 my-4 h4 p-3 text-white text-center wow fadeInUp">
-        <span class="font-weight-light">WANT TO LEARN MORE?</span><br>090.745.1357 CALL US NOW
+    <div class="bgc-1 my-xl-5 my-4 h4 p-3 text-white text-center wow animate__animated animate__fadeInUp">
+        <span class="fw-light">WANT TO LEARN MORE?</span><br>090.745.1357 CALL US NOW
     </div>
     <div class="my-xl-5 my-4">
-        <h2 class="text-center font-weight-bold wow fadeInUp">International Certifications</h2>
-        <div class="text-center wow fadeInUp" style="border-right: 2px solid #f17126; border-left: 2px solid #f17126">
+        <h2 class="text-center fw-bold wow animate__animated animate__fadeInUp">International Certifications</h2>
+        <div class="text-center wow animate__animated animate__fadeInUp" style="border-right: 2px solid #f17126; border-left: 2px solid #f17126">
             <div class="d-none d-md-block">
                 <img src="images/partner/international-certifications.jpg" alt="AWS" class="img-fluid">
             </div>

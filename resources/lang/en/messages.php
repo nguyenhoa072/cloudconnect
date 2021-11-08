@@ -15,8 +15,8 @@ return [
     'submit' => 'Submit',
     'i-accept-terms-and-privacy' => 'I accept terms and privacy',
     'address' => 'Adress',
-    'address_hanoi' => 'Lot L.29B-31B-33B, Street Tan Thuan, Tan Thuan EPZ, East Tan Thuan Ward, District 7, HCM City, Vietnam.',
-    'address_hcm' => 'Floor 12A, TNR Building, 54A Nguyen Chi Thanh, Ba Dinh District, Hanoi, Vietnam.',
+    'address_hcm' => 'Lot L.29B-31B-33B, Street Tan Thuan, Tan Thuan EPZ, East Tan Thuan Ward, District 7, HCM City, Vietnam.',
+    'address_hanoi' => 'Floor 12A, TNR Building, 54A Nguyen Chi Thanh, Ba Dinh District, Hanoi, Vietnam.',
     'fpt-telecom-international' => 'FPT Telecom International',
     'thank-you' => 'Thank you',
     'your-message-has-been-successfully-sent' => 'Your message has been successfully sent!<br>We will respond as soon as possible.',
@@ -36,4 +36,5 @@ return [
     'policy-and-regulations' => 'Policies',
     'privacy-policy' => 'Privacy Ppolicy',
     'terms-of-use' => 'Terms Of Use',
+    'google-cloud-interconnect' => 'Google Cloud Interconnect',
 ];
