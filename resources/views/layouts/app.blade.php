@@ -53,7 +53,7 @@
     </title>
 
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 
 <body>
@@ -63,7 +63,7 @@
     <a href="#" class="scroll-top"><i class="fa fa-long-arrow-up fa-lg"></i></a>
 
     <!-- Scripts -->
-    <script src="{{ asset('js/frontend.js') }}"></script>
+    <script src="{{ mix('js/frontend.js') }}"></script>
     <script type="text/javascript"
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmfxRua_XT-f_8rpwvzM6cQ3-0BeSvGNQ"></script>
     @yield('js')

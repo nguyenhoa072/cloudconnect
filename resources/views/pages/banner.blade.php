@@ -59,7 +59,7 @@
     </div>
     <a class="carousel-control-prev" href="#bannerHome" role="button" data-bs-slide="prev">
         <img src="{{asset('images/system/arrow-left.png')}}" alt="" width="40">
-    </a>bs-
+    </a>
     <a class="carousel-control-next" href="#bannerHome" role="button" data-bs-slide="next">
         <img src="{{asset('images/system/arrow-right.png')}}" alt="" width="40">
     </a>
