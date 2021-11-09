@@ -8,7 +8,7 @@
     <meta name="description"
         content="FPT Cloud Connect là một giải pháp tiên tiến cho doanh nghiệp thông qua đường kết nối chuyên biệt đến các ứng dụng dịch vụ một cách đơn giản, hiệu quả và bảo mật, dựa trên các nhà cung cấp điện toán đám mây phổ biến nhất trên thị trường hiện nay.">
     <meta name="keywords"
-        content="FPT Cloud Connect, Aws Direct Connect, Microsoft Azure Expressroute, Inter Connect, Express Connect, FPT Telecom International">
+        content="FPT Cloud Connect, Aws Direct Connect, Microsoft Azure Expressroute, Google Cloud Interconnect, Inter Connect, Express Connect, FPT Telecom International">
 
     <!-- ROBOTS -->
     <meta name="googlebot" content="noarchive">
@@ -21,7 +21,7 @@
     <meta property="og:rich_attachment" content="true" />
     <?php if (App::isLocale('vi')) { ?>
     <meta property="og:title"
-        content="FPT Cloud Connect, Aws Direct Connect, Microsoft Azure Expressroute, Inter Connect, Express Connect, FPT Telecom International" />
+        content="FPT Cloud Connect, Aws Direct Connect, Microsoft Azure Expressroute, Google Cloud Interconnect, Inter Connect, Express Connect, FPT Telecom International" />
     <meta property="og:url" content="<?php echo $urlCur = URL::current(); ?>" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:image" content="{{ asset('images/banner/fpt-cloud-connect-vi.png') }}" />

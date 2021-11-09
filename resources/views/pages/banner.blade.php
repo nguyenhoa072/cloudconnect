@@ -1,4 +1,4 @@
-<div id="bannerHome" class="carousel slide banner" data-ride="carousel">
+<div id="bannerHome" class="carousel slide banner" data-bs-ride="carousel">
     <div class="carousel-inner">
         <?php if (App::isLocale('vi')) { ?>
 
@@ -57,10 +57,10 @@
         <?php } ?>
 
     </div>
-    <a class="carousel-control-prev" href="#bannerHome" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#bannerHome" role="button" data-bs-slide="prev">
         <img src="{{asset('images/system/arrow-left.png')}}" alt="" width="40">
-    </a>
-    <a class="carousel-control-next" href="#bannerHome" role="button" data-slide="next">
+    </a>bs-
+    <a class="carousel-control-next" href="#bannerHome" role="button" data-bs-slide="next">
         <img src="{{asset('images/system/arrow-right.png')}}" alt="" width="40">
     </a>
 </div>
