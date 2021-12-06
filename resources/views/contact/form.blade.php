@@ -25,7 +25,7 @@
         <div id="contact_map"></div>
     </div>
     <div class="container my-xl-5 my-4">
-        <div class="box-1">
+        <div class="box-1 px-4">
             <div>
                 <h4 class="color text-center fw-bold m-0">
                     {!!__('contact.text-1')!!}
