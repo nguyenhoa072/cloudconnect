@@ -27,9 +27,12 @@ if (App::isLocale('en')) { ?>
 <div class="footer-top">
     <div class="container">
         <div class="row">
-            <div class="col-lg-2 col-md-4 col-6 py-4 pe-xl-5">
+            <div class="col-lg-2 col-md-4 col-6 py-4 pe-xl-4">
                 <img src="{{ asset('images/system/fpt-telecom-international-y.png') }}" alt=""
                     class="img-fluid" />
+                <a class="d-block mt-4" target="_blank" href="http://online.gov.vn/Home/WebDetails/89099">
+                    <img alt="" title="" src="{{ asset('images/home/logoSaleNoti.png') }}" class="img-fluid"/>
+                </a>
             </div>
             <div class="col-lg-auto col-6 footer-top-menu p-4">
                 <ul class="list-unstyled m-0 text-uppercase">
@@ -118,9 +121,12 @@ if (App::isLocale('en')) { ?>
 <div class="footer-top">
     <div class="container">
         <div class="row">
-            <div class="col-xl-2 col-lg-3 col-6 py-4 pe-xl-5">
+            <div class="col-xl-2 col-lg-3 col-6 py-4 pe-xl-4">
                 <img src="{{ asset('images/system/fpt-telecom-international-y.png') }}" alt=""
                     class="img-fluid" />
+                <a class="d-block mt-4" target="_blank" href="http://online.gov.vn/Home/WebDetails/89099">
+                    <img alt="" title="" src="{{ asset('images/home/logoSaleNoti.png') }}" class="img-fluid"/>
+                </a>
             </div>
             <div class="col-lg-auto col-6 footer-top-menu p-4">
                 <ul class="list-unstyled m-0 text-uppercase">
